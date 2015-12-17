@@ -4,7 +4,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 /**
  * Classe para integrar ao Google reCAPTCHA
  *
+ * @license http://www.gnu.org/licenses/gpl-3.0.en.html
  * @author Pablo Alexander da Rocha Gonçalves
+ * @link http://www.parg.com.br/
+ * @link https://github.com/parg-programador
  */
 class Google_recaptcha {
 
